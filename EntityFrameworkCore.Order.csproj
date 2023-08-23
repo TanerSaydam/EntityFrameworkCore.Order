@@ -11,6 +11,26 @@
     <Company>Taner Saydam</Company>
     <Product>EntityFrameworkCore.Order</Product>
     <Description>This package allow you to short list by string parameter</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>ef-core (1).png</PackageIcon>
+    <RepositoryUrl>https://github.com/TanerSaydam/EntityFrameworkCore.Order</RepositoryUrl>
+    <PackageTags>order</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\Users\tugay\OneDrive\Masaüstü\ef-core (1).png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

@@ -32,7 +32,7 @@ public sealed record GetAllBoomQuery(
 ```
 
 ## Source Code
-```
+```csharp
 public static class QueryableExtensions
 {
     public static IOrderedQueryable<T> RequestOrderBy<T>(this IQueryable<T> source, string propertyName, bool descending)
