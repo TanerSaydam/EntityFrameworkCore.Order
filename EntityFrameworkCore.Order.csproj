@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>EntityFrameworkCore.Order</PackageId>
+    <Title>Order List By String Parameter</Title>
+    <Version>1.0.0</Version>
+    <Authors>Taner Saydam</Authors>
+    <Company>Taner Saydam</Company>
+    <Product>EntityFrameworkCore.Order</Product>
+    <Description>This package allow you to short list by string parameter</Description>
+  </PropertyGroup>
+
+</Project>
