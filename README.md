@@ -1,7 +1,7 @@
 # EntityFrameworkCore.Order Nuget Package
 
 ## Dependency
-.Net 7
+.Net 8
 
 ## Description
 This nuget package allow you to sort the list by property name. 
